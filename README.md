@@ -25,14 +25,33 @@ In the challenge for this Sprint, you will demonstrate proficiency by creating a
 Demonstrate your understanding of this Sprint's concepts by answering the following free-form questions. Edit this document to include your answers after each question. Make sure to leave a blank line above and below your answer so it is clear and easy to read by your project manager.
 
 - [ ] What are the required parts of class components?
+      Class name—How the class name is identified
+      Comments—How to create comments to document your code
+      Attributes—How to define attributes for use in the class
+      Constructors—Special methods used to properly initialize a class
+      Accessors—Methods that are used to control access to private attributes
+      Public interface methods—How to define public interface methods
+      Private implementation methods—How to define private implementation methods
 
 - [ ] Name at least three lifecycle methods?
+      constructor
+      render
+      componentDidMount
+      componentDidUpdate
+      componentWillUnmount
 
 - [ ] Why are forms used so often in web applications and software?
+      Web Forms is a part of the ASP.NET web application framework. It is one of the four programming models you can use to create ASP.NET web applications, the others are ASP.NET MVC, ASP.NET Web Pages, and ASP.NET Single Page Applications.
 
 - [ ] What advantages are there by using a forms library like Formik?
+      Formik is a helper library that is recognized as one of the best form-management utilities currently available. Formik abstracts away some of the more complex situations we might come across, such as:
+      Nested form data and/or arrays
+      Wiring up state
+      Validation
+      Error messages
 
 - [ ] Why do we write tests for our apps?
+      Testing is essential for software quality. It should be integrated into the development process from beginning to end. We should not wait until a feature is complete to start testing it. Testing software manually on every commit to source control or every time we make a change does not scale! Automated testing works by using software to test our code.
 
 ## Project Set Up
 
